@@ -1,0 +1,1 @@
+# poc-staticip-elb-gtw
